@@ -1,0 +1,11 @@
+Apartado 3)
+git init
+git add .
+git commit -m "Inicialización del repositorio con estructura de directorios y archivo historia.txt"
+
+Apartado 4)
+git tag -a R1 -m "Versión R1"
+
+Apartado 5)
+git checkout -b Mejoras
+En vez de añadir un pdf se añade una carpeta con los txt(No existía un pdf como tal)

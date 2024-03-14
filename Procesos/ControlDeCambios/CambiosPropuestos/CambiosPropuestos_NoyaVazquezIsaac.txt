@@ -1,0 +1,8 @@
+Requisito funcional:
+	-Solicitar prestamo
+Requisito no funcional:
+	-Seguridad del almacenamiento de las contraseñas
+Problema:
+	-Enviar imagen es extendida por enviar mensaje
+
+
