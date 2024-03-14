@@ -1,0 +1,54 @@
+Apartado 3)
+git init
+git add .
+git commit -m "Inicialización del repositorio con estructura de directorios y archivo historia.txt"
+
+Apartado 4)
+git tag -a R1 -m "Versión R1"
+
+Apartado 5)
+git checkout -b Mejoras
+En vez de añadir un pdf se añade una carpeta con los txt(No existía un pdf como tal)
+git add .
+git commit -m "Agregada carpeta  cambios propuestos"
+
+Apartado 6)
+Sustituimos el documento
+git add .
+git commit -m "Actualización a versión v2"
+
+Apartado 7)
+git merge Mejoras
+git branch -d Mejoras
+
+Apartado 8)
+Borramos archivos
+rm .\Procesos\ControlDeCambios\CambiosPropuestos\.
+git add .
+git commit -m "Eliminada carpeta  cambios propuestos"
+
+Apartado 9)
+git tag -a R2 -m "Versión R2"
+
+Apartado 10)
+Actualizamos a v3
+git add .
+git commit -m "Actualización a versión v3"
+
+Apartado 11)
+git reset --hard HEAD^
+git add .
+git commit -m "Revertir a estado anterior"
+git tag -a R3 -m "Versión R3"
+
+Apartado 12)
+git push --set-upstream https://github.com/Braismata/DP_ControldeCambios_Grupo3-2-.git master --tags
+
+Apartado 13)
+git pull https://github.com/Braismata/DP_ControldeCambios_Grupo3-2-.git/
+
+Apartado 14)
+git diff .\historia.txt
+
+Apartado 15)
+https://github.com/Braismata/DP_ControldeCambios_Grupo3-2-.git master --tags
