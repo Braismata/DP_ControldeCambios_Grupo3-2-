@@ -1,6 +1,0 @@
-Requisito funcional:
-	-Ver histórico del viaje
-Requisito no funcional:
-	-Permitir realizar una valoración si y solo si se ha hecho un pago de esa actividad
-Problema:
-	-Recomendar las actividades en base a valoraciones realizadas previamente, no en base a los gastos

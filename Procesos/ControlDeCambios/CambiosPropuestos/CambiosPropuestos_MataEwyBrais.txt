@@ -1,6 +1,0 @@
-Requisito funcional:
-	-Pagos fantasma:Para reflejar pagos de usuarios que no estan en la aplicación pero pertenecen a un grupo
-Requisito no funcional:
-	-Mantenibilidad del producto
-Problema:
-	-Separar el requisito no funcional de seguridad en dos:Seguridad ante terceros y Seguridad ante fallos del Sistema

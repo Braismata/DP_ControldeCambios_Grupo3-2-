@@ -1,6 +1,0 @@
-Requisito funcional:
-	- Ver estadísticas de grupo: Un usuario podrá ver las estadísticas de un grupo de gasto, como el total gastado por el grupo, total gastado por cada usuario, porcentaje de pago que lleva cada usuario sobre el gasto total o porcentaje que se ha gastado por categorías (comida, cultura, hospedaje...).
-Requisito no funcional:
-	- Tiempo de retención de datos: El sistema deberá retener los datos de los grupos de gasto durante al menos un año.
-Problema:
-	- Los casos de uso que unen crear/eliminar, como "Agregar/Editar/Eliminar actividad del calendario", son casos de uso diferentes, no se pueden englobar en uno.

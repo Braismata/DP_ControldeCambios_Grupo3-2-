@@ -9,3 +9,9 @@ git tag -a R1 -m "Versión R1"
 Apartado 5)
 git checkout -b Mejoras
 En vez de añadir un pdf se añade una carpeta con los txt(No existía un pdf como tal)
+git add .
+git commit -m "Agregada carpeta  cambios propuestos"
+
+Apartado 6)
+Sustituimos el documento
+git add .
