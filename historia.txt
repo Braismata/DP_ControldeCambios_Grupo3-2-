@@ -40,3 +40,15 @@ git reset --hard HEAD^
 git add .
 git commit -m "Revertir a estado anterior"
 git tag -a R3 -m "Versión R3"
+
+Apartado 12)
+git push --set-upstream https://github.com/Braismata/DP_ControldeCambios_Grupo3-2-.git master --tags
+
+Apartado 13)
+git pull https://github.com/Braismata/DP_ControldeCambios_Grupo3-2-.git/
+
+Apartado 14)
+git diff .\historia.txt
+
+Apartado 15)
+https://github.com/Braismata/DP_ControldeCambios_Grupo3-2-.git master --tags
